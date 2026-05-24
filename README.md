@@ -100,9 +100,8 @@ php artisan test --filter=CaptchaProtectionTest
 ![Contacto](./public/capturas/contact.png)
 
 ### EN CASO DE NO CARGAR LAS CAPTURAS ENTRAR A:
-    ```bash
+    
     public/capturas/
-    ```
 
 
 
