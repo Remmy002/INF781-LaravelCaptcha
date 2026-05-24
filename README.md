@@ -67,8 +67,10 @@ Para habilitar la protección del formulario de Registro con reCAPTCHA v2 Invisi
 4. Copia la Clave del sitio y la Clave secreta.
 
 5. Pégalas al final de tu archivo .env:
+    ```bash
     -RECAPTCHA_SITE_KEY=tu_clave_del_sitio_aqui
     -RECAPTCHA_SECRET_KEY=tu_clave_secreta_aqui
+    ```
 
 ## Ejecución del Proyecto
 
@@ -133,4 +135,4 @@ El mayor problema legal es la falta de opción: el usuario está obligado a acep
 
     Licencia: *** License
 
-    Autor: Estudiante de Ingeniería Informática - U.A.T.F.
+    Autor: Clyder Remmy Moreira Quispe Estudiante de Ingeniería Informática 
