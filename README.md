@@ -35,12 +35,14 @@ Sigue estos pasos para clonar e instalar el entorno de desarrollo:
 
     Abre el archivo .env y edita los parámetros de conexión:
     Fragmento de código:
+    ```bash
     DB_CONNECTION=pgsql
     DB_HOST=127.0.0.1
     DB_PORT=5432
     DB_DATABASE=nombre_tu_base_datos
     DB_USERNAME=tu_usuario
     DB_PASSWORD=tu_contraseña
+    ```
 
 4. **Generar la clave de aplicación:**
     ```bash
