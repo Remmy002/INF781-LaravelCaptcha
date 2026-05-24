@@ -99,6 +99,12 @@ php artisan test --filter=CaptchaProtectionTest
 ### 3. Formulario de Contacto (Defensa en Profundidad: Honeypot Oculto + Rate Limiting por IP)
 ![Contacto](./public/capturas/contact.png)
 
+### EN CASO DE NO CARGAR LAS CAPTURAS ENTRAR A:
+    ```bash
+    public/capturas/
+    ```
+
+
 
 ## Análisis Crítico y Discusión
 22. ¿Qué amenazas específicas mitiga cada uno de los tres formularios protegidos y cuál es la amenaza residual que el CAPTCHA no resuelve?
